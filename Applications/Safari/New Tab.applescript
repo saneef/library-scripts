@@ -1,5 +1,9 @@
-# Based on John Gruber's Script
-# https://daringfireball.net/2018/12/safari_new_tab_next_to_current_tab
+-- Make Safari Open New Tab Next to the Current Tab
+--
+-- Use with FastScripts
+--
+-- Based on John Gruber's Script
+-- https://daringfireball.net/2018/12/safari_new_tab_next_to_current_tab
 
 tell application "Safari"
 	tell front window
